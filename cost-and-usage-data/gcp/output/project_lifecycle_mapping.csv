@@ -1,0 +1,2 @@
+project_name,lifecycle,business_unit,use_case,description,stages,services
+SmartFactoryIoTPlatform,growing,Manufacturing,Enterprise Integration,"Comprehensive smart factory platform connecting 100,000+ industrial sensors and controllers with real-time monitoring, digital twins, and predictive capabilities.","manufacturing-iot, manufacturing-prod, manufacturing-analytics","IoT, IoTSiteWise, Pub/Sub, BigQuery, CloudStorage, CloudFunctions, Firestore, Pub/Sub, VertexAI, CloudLogging, Looker, ComputeEngine, GKE"

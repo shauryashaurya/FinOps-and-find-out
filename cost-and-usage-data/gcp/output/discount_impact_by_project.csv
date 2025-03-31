@@ -1,0 +1,4 @@
+project.id,project.name,cost,credit_amount,effective_cost,discount_percent
+manufacturing-iot-888803,Manufacturing IoT,65163.7341180345,-4695.183073894026,60468.55104414048,-7.205208752140253
+manufacturing-manufacturing-analytics-05fe,Manufacturing Manufacturing Analytics,63985.997074738225,-1109.8304540920878,62876.16662064613,-1.7344895833939433
+manufacturing-prod-444403,Manufacturing Production,381561.2413433767,-28475.282857781178,353085.9584855955,-7.462834211757778

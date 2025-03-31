@@ -1,0 +1,4 @@
+project,recommendation_type,cloud,description,estimated_savings,service
+CloudExpansionMediaServices,evaluate_migration,aws,Consider evaluating full migration to aws (already 96.6% of project costs).,1440.3259064929211,
+CloudExpansionMediaServices,consolidation,azure,Consider consolidating azure workloads (only 3.4% of project costs) to reduce multi-cloud overhead.,2160.4888597393824,
+CloudExpansionMediaServices,reservation,aws,Consider purchasing reserved instances/commitments for EC2 on aws.,24719.87500691513,EC2

@@ -1,0 +1,2 @@
+project_name,lifecycle,business_unit,use_case,description,stages,services
+HealthcareDataInteroperabilityHub,growing,Pharma,Enterprise Integration,"Interoperability platform connecting healthcare systems via FHIR, HL7, DICOM with real-time transforms, API management, and secure patient data exchange.","pharma-prod, pharma-research","APIGateway, AppSync, Lambda, DynamoDB, EC2, ECS, SNS, SQS, S3, ElasticSearch, CloudWatchLogs, KMS, StepFunctions, HealthLake"

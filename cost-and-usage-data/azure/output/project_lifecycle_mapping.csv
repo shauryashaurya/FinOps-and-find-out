@@ -1,0 +1,2 @@
+project_name,lifecycle,business_unit,use_case,description,stages,services
+CloudAppSaaSBackend,growing,SoftwareSolutions,Software Solutions,Backend infrastructure for a SaaS application providing core services and data management.,"softwaresolutions-prod, softwaresolutions-staging","VirtualMachines, ContainerInstances, SQLDatabase, CosmosDB, VirtualMachines, API Management, Functions, Redis, EventHubs, LogAnalytics"

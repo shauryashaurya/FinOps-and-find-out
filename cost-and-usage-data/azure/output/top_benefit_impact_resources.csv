@@ -1,0 +1,21 @@
+ResourceId,ResourceName,BenefitName,Cost,EstimatedSavings
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Compute/virtualMachines/clo-api-test-v-ostq,clo-api-test-v-ostq,Reserved Instance: 1 year,36948.41664583095,9237.104161457737
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Compute/virtualMachines/clo-api-test-v-ostq,clo-api-test-v-ostq,Reserved Instance: 3 year,27968.013640571633,6992.003410142908
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Sql/servers/databases/clo-sql-test-tq54,clo-sql-test-tq54,Reserved Instance: 1 year,25439.121661310346,6359.7804153275865
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Compute/virtualMachines/clo-web-test-v-ostq,clo-web-test-v-ostq,Azure Hybrid Benefit,19899.752009852014,4974.938002463004
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Sql/servers/databases/clo-sql-test-tq54,clo-sql-test-tq54,Azure Hybrid Benefit,13068.952718385932,3267.238179596483
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Compute/virtualMachines/clo-batch-test-b-ostq,clo-batch-test-b-ostq,Reserved Instance: 3 year,11619.174143850509,2904.793535962627
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Compute/virtualMachines/clo-api-test-v-ostq,clo-api-test-v-ostq,Azure Hybrid Benefit,11556.09281634768,2889.02320408692
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Compute/virtualMachines/clo-batch-test-b-ostq,clo-batch-test-b-ostq,Reserved Instance: 1 year,9259.43764431607,2314.8594110790177
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.DocumentDB/databaseAccounts/clo-doc-ivcy,clo-doc-ivcy,Azure Hybrid Benefit,5537.674083620084,1384.418520905021
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Compute/virtualMachines/clo-db-test-b-ostq,clo-db-test-b-ostq,Azure Hybrid Benefit,4974.938002463004,1243.734500615751
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Compute/virtualMachines/clo-web-test-v-ostq,clo-web-test-v-ostq,Reserved Instance: 1 year,4726.191102339853,1181.5477755849633
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Compute/virtualMachines/clo-batch-test-b-ostq,clo-batch-test-b-ostq,Azure Hybrid Benefit,4537.848725892186,1134.4621814730465
+/subscriptions/00000000-0000-0000-0000-000333300005/resourceGroups/clo-rg/providers/Microsoft.DocumentDB/databaseAccounts/clo-doc-ivcy,clo-doc-ivcy,Reserved Instance: 3 year,3793.39142119541,948.3478552988526
+/subscriptions/00000000-0000-0000-0000-000333300005/resourceGroups/clo-rg/providers/Microsoft.DocumentDB/databaseAccounts/clo-doc-ivcy,clo-doc-ivcy,Reserved Instance: 1 year,3485.4982662745133,871.3745665686283
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.ApiManagement/service/clo-am-2tdi,clo-am-2tdi,Reserved Instance: 1 year,3301.796553167633,825.4491382919083
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Cache/Redis/clo-red-v88i,clo-red-v88i,Reserved Instance: 1 year,2928.0301902372235,732.0075475593059
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.OperationalInsights/workspaces/clo-log-d0ve,clo-log-d0ve,Azure Hybrid Benefit,2884.469527547875,721.1173818869687
+/subscriptions/00000000-0000-0000-0000-000333300005/resourceGroups/clo-rg/providers/Microsoft.DocumentDB/databaseAccounts/clo-doc-ivcy,clo-doc-ivcy,Azure Hybrid Benefit,2383.2038335152115,595.8009583788029
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.Cache/Redis/clo-red-v88i,clo-red-v88i,Compute Savings Plan,2293.048632069243,573.2621580173108
+/subscriptions/00000000-0000-0000-0000-000444400005/resourceGroups/clo-rg/providers/Microsoft.DocumentDB/databaseAccounts/clo-doc-ivcy,clo-doc-ivcy,Compute Savings Plan,2080.607460005075,520.1518650012688
