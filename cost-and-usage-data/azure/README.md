@@ -2,7 +2,7 @@
                                                     
                                                     
 <html>                                                   
-	<img src="../.././images/finops-aws.png" width="90%" align="center" alt="FinOps and find out...Data Generators , © 2025, Shaurya Agarwal" />                                                    
+	<img src="../.././images/finops-azure.png" width="90%" align="center" alt="FinOps and find out...Data Generators , © 2025, Shaurya Agarwal" />                                                    
 </html>                                                    
                                                   
 Create **Azure** data with this generator.          
